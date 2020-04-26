@@ -2,4 +2,4 @@ Names of people who understand git
 ==================================
 
 1. Fon E. Noel NFEBE
-2.Bilong II Sonna Junior
+2.bilong II sonna junior
